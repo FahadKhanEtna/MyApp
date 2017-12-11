@@ -1,0 +1,5 @@
+export const AT_VIDEOS={
+    DELETE : "DELETE_VIDEO",
+    CREATE : "CREATE_VIDEO",
+    READ_ALL : "READ_ALL_VIDEO"
+}

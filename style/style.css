@@ -1,0 +1,44 @@
+.divSearchBar
+{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.searchBar {
+    width: 80%;
+    height: 30px;
+    font-size: 2em;
+}
+
+.buttonSearchBar{
+    width: 19%;
+    height: 42px;
+    font-size: 2em;
+}
+
+.imageList{
+    height: 200px;
+    width: 250px;
+}
+
+li {
+    list-style: none
+}
+
+.avisLIst {
+    text-align: center;
+    border: 2px solid grey;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.inputFormComment{
+    margin: 10px;
+}
+
+iframe{    
+    width: 800px;
+    height: 554px;
+}
